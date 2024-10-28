@@ -1,7 +1,7 @@
 ### Hi there 👋, I'm Suman
 
 - 👀 I’m interested in backend development, especially in Java, Spring Boot, Hibernate, and SQL.
-- 🌱 I’m currently learning advanced Spring Boot concepts, Hibernate ORM, and improving my skills in SQL and Java 8.
+- 🌱 I’m currently working on Spring Boot, Hibernate, and improving my skills in SQL and Java 8.
 - 💞️ I’m looking to collaborate on projects involving Spring Boot, REST API development, and database management with Hibernate and SQL.
 - 📫 How to reach me:  email: mitras730@gmail.com
 - 😄 Pronouns: He/Him
